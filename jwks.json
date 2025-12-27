@@ -2,9 +2,11 @@
     "keys": [
         {
             "kty": "RSA",
-            "kid": "FSpmkmwdPBgdWs00c72VBKoZKGQ3ldCMgSFjIsc60xo",
-            "n": "orj_G6MZKTeSs3rkvHP_kHLZu5984nfnuARZt0oBYa3YfMe-ROfC56ysRBRFlKFOAAsztEGbhbbPNvYqTzTY6CIDHlc-xEWS3BXSImBqmf76GD0YDYJQ7FTvjODKOJzZwuKa9ZhwGuuStgEu00sUx9b5sXCIHlwE8ua1kch1iYsNcZB7GJpCj9fBWSMOvmBzp4SwH_Ijl-1fwiGG-SI4AwjXV7Y6h1c3TGTJIAKnsSLSWIky_btlxIZN3aBNyE9DU0WTkg750Zou6w9wZ5ZZ7LGVO3UeRCBibX6e4MRCxfv6OjpyCS9Ue3fYelrxi1LVV-3nrDFrpCRskkGAXgikQQ",
-            "e": "AQAB"
+            "e": "AQAB",
+            "use": "sig",
+            "kid": "test-key-01",
+            "alg": "RS384",
+            "n": "q_0..."
         }
     ]
 }
